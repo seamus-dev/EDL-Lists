@@ -1877,7 +1877,7 @@
 46.182.21.248/32
 23.129.64.146/32
 23.129.64.131/32
-/32
+
 # Cyber Threat Intel (CTI) Activity Report - REN ISAC 12/13
 141.95.18.207/32
 147.135.105.62/32
@@ -1915,24 +1915,20 @@
 94.142.244.16/32
 213.164.206.123/32
 45.12.223.94/32
-
 # REN-ISAC mailing list discussions
 47.251.46.249/32
 178.17.170.135/32
-
 # GreyNoise updated 12/13 12:51pm
 # BinaryEdge
 209.141.60.19/32
 185.51.76.187/32
 5.2.73.229/32
-
 # Twitter
 # Talos updated 12/13 at 12:52pm
 213.164.204.146/32
 89.234.182.139/32
 164.52.212.196/32
 193.196.53.232/32
-
 # Azure Sentinel - updated 12/13 at 12:57pm
 # https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/Sample%20Data/Feeds/Log4j_IOC_List.csv
 119.28.91.153/32
