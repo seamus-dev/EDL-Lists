@@ -981,3 +981,6 @@
 120.85.97.0/24
 220.198.222.0/24
 120.85.99.0/24
+# Alex from query- mostly bad login attempts in last 30 days
+136.169.211.151
+77.40.2.65
