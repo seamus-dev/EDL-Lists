@@ -991,7 +991,10 @@
 120.85.97.0/24
 220.198.222.0/24
 120.85.99.0/24
-# Alex from query: bad login attempts in last 30 days
+# Alex count summary bad login attempts in last 14 days (8/22)
+23.82.201.73
+208.67.106.174
+# older than 8/22 below:
 136.169.211.151
 77.40.2.65
 77.40.62.209
