@@ -991,7 +991,7 @@
 120.85.97.0/24
 220.198.222.0/24
 120.85.99.0/24
-# Alex count summary bad login attempts in last 14 days (9/13)
+# Alex count summary bad login attempts in last 14 days (9/22)
 198.12.229.226
 2600:1f13:18c:700:82ae:9dd3:995d:8e0e
 208.67.106.174
@@ -1001,6 +1001,8 @@
 77.40.62.209
 136.169.210.242
 178.176.174.110
+198.144.189.18
+103.109.57.106
 # Alex from query: protect vulnerable user
 197.211.58.15
 # Alex phishing email 6/30/22
